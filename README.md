@@ -16,3 +16,8 @@ bibtex:
   year={2020}
 }
 
+## Python version
+
+### required python libraries
+numpy,pyroute2
+
